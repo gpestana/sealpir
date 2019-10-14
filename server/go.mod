@@ -1,4 +1,4 @@
-module server
+module github.com/gpestana/sealpir/server
 
 go 1.12
 
