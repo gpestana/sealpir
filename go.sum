@@ -1,0 +1,4 @@
+github.com/gpestana/sealpir/client v0.0.0-20191014184755-be752ab23cad h1:Zd41S0QvDn10xj2w3lkjZE3GdpvoFWD7wzRul5MF75U=
+github.com/gpestana/sealpir/client v0.0.0-20191014184755-be752ab23cad/go.mod h1:wsEvOjJzFQZEGZfl7v5r1UBetCunQ3+HNI8rNQLGwqY=
+github.com/gpestana/sealpir/server v0.0.0-20191014184755-be752ab23cad h1:aYjOQzUfRzo1Q1/ytR9qL+ndZULcQXfLfAb8+QlMWF0=
+github.com/gpestana/sealpir/server v0.0.0-20191014184755-be752ab23cad/go.mod h1:K8YlWkPmtsqAVAaO9QStZJJMfG8j7YAItk6SBbgvMo8=
